@@ -10,21 +10,21 @@ I've loved computers and games since childhood, so I decided to push myself out 
 
 ---
 C#,
-ASP.NET
-JavaScript / Typescript
-SWIFT
-HTML/CSS
-HTTP and WEB API basics
+ASP.NET,
+JavaScript / Typescript,
+SWIFT,
+HTML/CSS,
+HTTP and WEB API basics,
 SQL and Relational Databases
 
-Git
-TDD
-Unit Testing
-SOLID
-Clean Code
-Design Patterns
-VueJS
-NodeJS basics
+Git,
+TDD,
+Unit Testing,
+SOLID,
+Clean Code,
+Design Patterns,
+VueJS,
+NodeJS basics,
 
 My latest projects: 
 
