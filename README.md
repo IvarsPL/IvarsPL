@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvarsPL
+- ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C#
 - 💞️ I’m not looking to collaborate.
