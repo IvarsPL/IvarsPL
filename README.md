@@ -34,6 +34,5 @@ WEB API for creating scheduled flights via SQL database.
 Scooter Rental Service (https://github.com/IvarsPL/ScooterRentalService)
 Created a functioning backend that makes it possible to rent scooters for a period of time and calculate annual turnover for the company.
 
-
 - 📫 How to reach me -> plaudisivars@gmail.com or +37126626878
 
